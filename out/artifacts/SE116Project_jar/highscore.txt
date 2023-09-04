@@ -1,0 +1,5 @@
+Techna:100
+AliVEli:90
+Flora:70
+Stella:60
+Bloom:40

@@ -1,0 +1,7 @@
+Techna:100
+Zeynep2:80
+Flora:70
+Stella:60
+Zeynep:50
+velimali:5
+Osman:0
